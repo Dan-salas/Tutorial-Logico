@@ -1,44 +1,20 @@
-# Nombre del proyecto
+# Evidencias Tutorial Daniel Salas
 
-## 1. Abreviaturas y definiciones
-- **FPGA**: Field Programmable Gate Arrays
+## 1. Parte 1
+Instalación de programas:
+[![Instalacion-de-programas.jpg](https://i.postimg.cc/ydmPmQZc/Instalacion-de-programas.jpg)](https://postimg.cc/N90mYxbj)
 
-## 2. Referencias
-[0] David Harris y Sarah Harris. *Digital Design and Computer Architecture. RISC-V Edition.* Morgan Kaufmann, 2022. ISBN: 978-0-12-820064-3
+## 2. Parte 2
+Uso de comandos:
+[![Make-test-y-make-wv.jpg](https://i.postimg.cc/JnVxBVGR/Make-test-y-make-wv.jpg)](https://postimg.cc/t1kWLc3c)
+[![Paso-final-parte-2.jpg](https://i.postimg.cc/BnzM413L/Paso-final-parte-2.jpg)](https://postimg.cc/9DGGB0rC)
 
-## 3. Desarrollo
+## 3. Parte 3
+Archivos creados:
+[![Archivos-Parte-3.jpg](https://i.postimg.cc/YqbdDsyx/Archivos-Parte-3.jpg)](https://postimg.cc/BXP5XM38)
 
-### 3.0 Descripción general del sistema
+Uso de comandos:
+[![Make-synth-pnr-test-wv.jpg](https://i.postimg.cc/FKJGRsFP/Make-synth-pnr-test-wv.jpg)](https://postimg.cc/Y4MQD7Wg)
+[![Wv.jpg](https://i.postimg.cc/tJ9z233f/Wv.jpg)](https://postimg.cc/jwkNjJkQ)
+[![Final-parte-3.jpg](https://i.postimg.cc/6pqYkfkx/Final-parte-3.jpg)](https://postimg.cc/yDqm9c6L)
 
-### 3.1 Módulo 1
-#### 1. Encabezado del módulo
-```SystemVerilog
-module mi_modulo(
-    input logic     entrada_i,      
-    output logic    salida_i 
-    );
-```
-#### 2. Parámetros
-- Lista de parámetros
-
-#### 3. Entradas y salidas:
-- `entrada_i`: descripción de la entrada
-- `salida_o`: descripción de la salida
-
-#### 4. Criterios de diseño
-Diagramas, texto explicativo...
-
-#### 5. Testbench
-Descripción y resultados de las pruebas hechas
-
-### Otros modulos
-- agregar informacion siguiendo el ejemplo anterior.
-
-
-## 4. Consumo de recursos
-
-## 5. Problemas encontrados durante el proyecto
-
-## Apendices:
-### Apendice 1:
-texto, imágen, etc
